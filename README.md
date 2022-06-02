@@ -47,7 +47,7 @@
 [<h4>Visitor's count 👀</h4>](https://dev.to/ryanlanciaux/visitor-count-on-your-github-profile-with-one-line-of-markdown-593g)
 <img src="https://profile-counter.glitch.me/Anaghirali/count.svg" alt="Visitor's Count" title="Visitor's Count"/>
 
-<img src="https://i.pinimg.com/originals/92/91/af/9291afe5acd991875056cbb38e17e7a3.gif" alt="Synthwave gif" >
+<img src="https://i.pinimg.com/originals/84/9a/3d/849a3d5dc8097ab17fe0692dcfe3db55.gif" alt="Synthwave gif" >
 
 
 </div>
