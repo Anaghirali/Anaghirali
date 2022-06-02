@@ -1,4 +1,8 @@
+  <img src="https://user-images.githubusercontent.com/91635391/171524159-ef0869a7-4436-424a-8aa2-bff9d5f69475.png" align=
+"right" alt="Ana-AndroidStudio" width="170" >
+
 ### Hi there, I'm Ana Ghirali 👋
+
 
 - 🌱 I’m currently learning Java, JavaScript.
 - 📖 Studiyng Systems Development at Colégio Técnico de Campinas - Unicamp
@@ -32,6 +36,8 @@
   <img align="center" alt="Ana-AndroidStudio" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
 
 </div>
+
+##
 
 | [📈 Github Profile Stats](https://github.com/anuraghazra/github-readme-stats#github-stats-card) | [📓 Github Languages](https://github.com/anuraghazra/github-readme-stats#top-languages-card) |
 | :---: | :---: |
