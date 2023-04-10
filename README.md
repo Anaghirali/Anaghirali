@@ -5,7 +5,10 @@
 
 
 - 🌱 I’m currently learning C.
-- 📖 Studiyng Systems Development at Colégio Técnico de Campinas - Unicamp
+- 💻 Currently studying Computer Science at Unimetrocamp Wyden.
+- 📖 I studied Systems Development at Colégio Técnico de Campinas - Unicamp.
+
+## The only way to do something great is to love what you do. If you still haven't found it, keep looking. Don't settle. -SJ
 
 
 [<img alt="GitHub followers" src="https://img.shields.io/github/followers/Anaghirali?label=Follow&style=social" height="22" title="Follow me"/>][github]
