@@ -4,7 +4,7 @@
 ### Hi there, I'm Ana Ghirali 👋
 
 
-- 🌱 I’m currently learning Java, JavaScript.
+- 🌱 I’m currently learning C.
 - 📖 Studiyng Systems Development at Colégio Técnico de Campinas - Unicamp
 
 
