@@ -4,7 +4,7 @@
 ### Hi there, I'm Ana Ghirali 👋
 
 
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning C, Python, Java.
 - 💻 Currently studying Computer Science at Unimetrocamp Wyden.
 - 📖 I studied Systems Development at Colégio Técnico de Campinas - Unicamp.
 
