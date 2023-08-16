@@ -4,7 +4,7 @@
 ### Hi there, I'm Ana Ghirali 👋
 
 
-- 🌱 I’m currently learning C, Python, Java.
+- 🌱 I’m currently learning C, Python, Java and Data Analysis on Coursera.
 - 💻 Currently studying Computer Science at Unimetrocamp Wyden.
 - 📖 I studied Systems Development at Colégio Técnico de Campinas - Unicamp.
 
@@ -37,7 +37,7 @@
   <img align="center" alt="Ana-Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Ana-CSharp" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Ana-AndroidStudio" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-
+  <img align="center" alt="Ana-AndroidStudio" width="40" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
 </div>
 
 ##
