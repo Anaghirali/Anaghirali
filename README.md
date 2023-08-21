@@ -57,6 +57,6 @@
 
 <img src="https://i.pinimg.com/originals/84/9a/3d/849a3d5dc8097ab17fe0692dcfe3db55.gif" alt="Synthwave gif" >
 
-![Snake animation](https://github.com/seu-usuário-aqui/anaghirali/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/anaghirali/anaghirali/blob/output/github-contribution-grid-snake.svg)
   
 </div>
