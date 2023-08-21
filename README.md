@@ -42,13 +42,13 @@
 
 ##
 
-| [📈 Github Profile Stats](https://github.com/anuraghazra/github-readme-stats#github-stats-card) | [📓 Github Languages](https://github.com/anuraghazra/github-readme-stats#top-languages-card) |
+| [📈 Github Profile Stats](https://github.com/anuraghazra/github-readme-stats#github-stats-card) |  [📓 Github Languages](https://github.com/anuraghazra/github-readme-stats#top-languages-card) |
 | :---: | :---: |
-| <img height="180" src="https://github-readme-stats.vercel.app/api?username=Anaghirali&show_icons=true&theme=highcontrast" /> | <img height="160" width="480"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anaghirali&theme=highcontrast&layout=compact" /> |
+| <img height="180" src="https://github-readme-stats.vercel.app/api?username=Anaghirali&show_icons=true&theme=radical" /> | <img height="160" width="480"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anaghirali&theme=radical&layout=compact" /> |
 
 | [⚡️ Github Profile Streaks](https://github.com/DenverCoder1/github-readme-streak-stats#github-readme-streak-stats) | [🏆 Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy#github-profile-trophy)
 | :---: | :---: |
-| <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Anaghirali&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&ring=DD0000&currStreakNum=DDC900&fire=DD0000&currStreakLabel=DDC900&sideLabels=00DDD6" /> | <img height="180" width="480" src="https://github-profile-trophy.vercel.app/?username=Anaghirali&theme=juicyfresh&row=2&column=5&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" /> |
+| <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Anaghirali&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=DD0000&currStreakNum=DDC900&fire=DD0000&currStreakLabel=DDC900&sideLabels=00DDD6" /> | <img height="180" width="480" src="https://github-profile-trophy.vercel.app/?username=Anaghirali&theme=radicalh&row=2&column=5&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" /> |
 
 
 <div align="center">
